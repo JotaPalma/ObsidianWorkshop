@@ -110,7 +110,7 @@ Contains "WHERE contains(author, "James Clear")"
 SORT 
 
 I'll show you my own simple dataview query to see which files I last created and edited, so I can stay on top of my notes.
-
+I could give a whole other workshop on Dataview alone, but I'll just leave you with the link to the [official dataview guide](https://blacksmithgu.github.io/obsidian-dataview/)
 
 # Use cases
 ## PKM / Zettelkasten
