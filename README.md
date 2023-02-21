@@ -92,6 +92,9 @@ Canvas is basically a mind mapping tool on steroids, since you can link your not
 It's not visible on mobile yet, but it's a feature the dev team is working on.
 
 ## Dataview and other community plugins
+Let's install dataview and enable it from the community plugin tab.
+
+
 With LIST you can create a simple list view of your notes
 With TABLE, you create a table where you can have headers 
 With TASK, you can create a list of all the tasks on your vault
