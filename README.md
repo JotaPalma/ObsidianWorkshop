@@ -126,7 +126,7 @@ You can have notes for characters, places, missions, objects, and so much more. 
 Using essentially the same notes as in the Roleplaying example, you can plan out your book on Obsidian. Never lose track of your plots. It might help you find possible plotpoints you didn't notice before!
 
 ## University note taking
-Basically the same use case as a zettelkasten, but optimized for university! I have a master note (Map of Content, or MOC) for each subject and link all my class notes to it with a dataview query.
+Basically the same use case as a zettelkasten, but optimized for university! I have a master note (Map of Content, or MOC) for each subject and link all my class notes to it with a dataview query. There's even a flashcard plugin to help you study!
 
 ## Task management
 There are so many great task-related community plugins, it's possible to replicate nearly every aspect of your standard task manager apps, right here in Obsidian! 
