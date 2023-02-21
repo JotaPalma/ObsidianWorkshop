@@ -1,0 +1,2 @@
+# ObsidianWorkshop
+Beginner Obsidian workshop
