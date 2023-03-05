@@ -3,6 +3,8 @@ Beginner Obsidian workshop
 
 Hello and welcome to my beginner Obsidian workshop. Bear with me while I try to overcome my social anxiety by talking about something I'm passionate about.
 
+[Here's the link to install obsidian](https://obsidian.md/download).
+
 # Personal Knowledge Management
 
 ## What is it and why is it important
