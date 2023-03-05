@@ -98,7 +98,7 @@ Let's install the templates plugin. It's one of the plugins I use the most. Crea
 # Advanced
 ## Canvas
 Canvas is basically a mind mapping tool on steroids, since you can link your notes, websites, media and even create notes directly from the canvas view.
-It's not visible on mobile yet, but it's a feature the dev team is working on.
+
 
 ## Dataview and other community plugins
 Let's install dataview and enable it from the community plugin tab.
