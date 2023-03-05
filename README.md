@@ -4,6 +4,8 @@ Beginner Obsidian workshop
 Hello and welcome to my beginner Obsidian workshop. Bear with me while I try to overcome my social anxiety by talking about something I'm passionate about.
 
 [Here's the link to install obsidian](https://obsidian.md/download).
+Join us on [/r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/) or on [discord](https://discord.gg/obsidianmd)!
+
 
 # Personal Knowledge Management
 
@@ -56,7 +58,9 @@ Once you open the app, you'll be prompted to create your vault. This will simply
 
 ## Markdown basics
 Headings: #
+
 Highlighting: ==jsj==
+
 Code block
 ```html
 <html>
@@ -65,8 +69,11 @@ Code block
 <h1>Hello</h1>
 </html>
 ```
+
 Bold **sksks**
+
 Italics *jsjse*
+
 Callouts
 
 > [!NOTE] Note title
