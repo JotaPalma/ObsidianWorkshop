@@ -105,23 +105,33 @@ Let's install dataview and enable it from the community plugin tab.
 
 
 With LIST you can create a simple list view of your notes
+
 With TABLE, you create a table where you can have headers 
+
 With TASK, you can create a list of all the tasks on your vault
 
+
 FROM : gets files from a specific location (example, a tag)
+
 Incoming links: finds all notes linked to note 
+
 Outgoing links: just add "FROM outgoing ([[example dataview link]])"
+
 You can add more Queries in the FROM with AND and OR. With a -, it will subtract the query.
+
 
 WHERE: "WHERE file.name = "xxx" "
 
 File.name
+
 File.size
+
 Contains "WHERE contains(author, "James Clear")"
 
 SORT 
 
 I'll show you my own simple dataview query to see which files I last created and edited, so I can stay on top of my notes.
+
 I could give a whole other workshop on Dataview alone, but I'll just leave you with the link to the [official dataview guide](https://blacksmithgu.github.io/obsidian-dataview/)
 
 # Use cases
